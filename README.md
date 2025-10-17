@@ -1,6 +1,6 @@
 
 
-# 🗓️ Appointment Scheduler
+# 🗓️ Schedule-manager
 
 A **web application** for managing and scheduling appointments between service providers and customers. Built with **Spring Boot** and **MySQL**, this system allows admins, providers, and customers to handle bookings, notifications, and invoices efficiently.
 
